@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# Ignore env folder and its contents
+env/
+
+# Ignore .json files
+*.json
